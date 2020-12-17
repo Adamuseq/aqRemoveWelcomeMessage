@@ -1,0 +1,3 @@
+com\adamuseq\removewelcomemessage\MainPlugin.class
+com\adamuseq\removewelcomemessage\listeners\CustomListener.class
+com\adamuseq\removewelcomemessage\listeners\player\PlayerJoinQuitListener.class

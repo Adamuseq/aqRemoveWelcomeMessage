@@ -1,0 +1,6 @@
+name: aqRemoveWelcomeMessage
+author: Adamuseq
+website: www.adamuseq.com
+description: Plugin usuwajacy wiadomosc przy dolaczeniu do serwera i przy jego opuszczeniu.
+version: 1.0
+main: com.adamuseq.removewelcomemessage.MainPlugin
